@@ -1,0 +1,14 @@
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Spring Boot / Maven
+backend/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Environment / secrets
+.env
+*.env
